@@ -6,7 +6,7 @@ const server = http.createServer((req, res) => {
   res.write("Romy Jane C. Manili\n");
   res.write("BA 4102\n\n");
   
-  res.write("Small steps everyday\n")
+  res.write("Dream big, work hard, stay humblegit\n")
   res.end();
 
 });
