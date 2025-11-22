@@ -3,10 +3,10 @@ const PORT = process.env.PORT || 3000;
 
 const server = http.createServer((req, res) => {
 
-  res.write("==GLAM AND GLOW Studio==\n");
-  res.write("Your Trusted hair and make up services.\n\n");
+  res.write("Romy Jane C. Manili\n");
+  res.write("BA 4102\n\n");
   
-  res.write("Welcome to my affordable Hair and Makeup services.\n")
+  res.write("Small steps everyday\n")
   res.end();
 
 });
